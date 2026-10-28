@@ -1,4 +1,6 @@
-ALTER TABLE nasabah ADD total_poin INT NOT NULL DEFAULT 0;
+sql pemodelan uts
+  
+  ALTER TABLE nasabah ADD total_poin INT NOT NULL DEFAULT 0;
 
 CREATE TABLE hadiah (
   id_hadiah       INT AUTO_INCREMENT PRIMARY KEY,
